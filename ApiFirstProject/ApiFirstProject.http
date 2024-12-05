@@ -1,0 +1,10 @@
+@ApiFirstProject_HostAddress = https://localhost:7187
+
+GET {{ApiFirstProject_HostAddress}}api/rest/products
+Accept: application/json
+
+###
+Get {{ApiFirstProject_HostAddress}}/api/rest/products
+Accep: application/json
+
+###
